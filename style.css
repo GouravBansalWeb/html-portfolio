@@ -3,3 +3,11 @@ a
 text-decoration:none;
 margin-left:20px;
 }
+.project
+{
+  display:flex;
+  flex-direction: column;
+}
+footer
+{
+}  
