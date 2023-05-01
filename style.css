@@ -3,6 +3,10 @@ a
 text-decoration:none;
 margin-left:20px;
 }
+.profilepic
+{
+  border-radius:50%;
+}
 .project
 {
   display:flex;
